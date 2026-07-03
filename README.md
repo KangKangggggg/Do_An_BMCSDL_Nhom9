@@ -1,7 +1,7 @@
 # Do_An_BMCSDL_Nhom9
-
+==================================================================
   ỨNG DỤNG QUẢN LÝ NHÂN VIÊN - BẢO MẬT CƠ SỞ DỮ LIỆU (ĐỀ 5)
-
+==================================================================
 
 GIỚI THIỆU ĐỒ ÁN
 ------------------------------------------------------------------
@@ -45,13 +45,13 @@ THÀNH VIÊN NHÓM
 ------------------------------------------------------------------
   STT   Họ và tên                   MSSV        Nhiệm vụ đảm nhận
   ---   -------------------------   ---------   --------------------------------
-   1    Đoàn Vĩnh Phát                           Nền tảng Database +
-                                                 Nhân viên thường
-   2    Huỳnh Trần Thùy Linh        23110253    Trưởng phòng + Phòng Kế toán
+   1    Đoàn Vĩnh Phát              (đang cập   Nền tảng Database +
+                                     nhật)       Nhân viên thường
+   2    Nguyễn Hoàng Tâm            23110313    Trưởng phòng + Phòng Kế toán
    3    Huỳnh Tấn Vinh              23110365    Phòng Nhân sự (HR) - VPD,
-                                                Trigger Audit Log, CRUD C#
-   4    Nguyễn Hoàng Tâm            23110313     Tích hợp & Kiểm thử toàn hệ
-                                                thống
+                                                 Trigger Audit Log, CRUD C#
+   4    Huỳnh Trần Thùy Linh        23110253    Tích hợp & Kiểm thử toàn hệ
+                                                 thống
 
   Ghi chú: mỗi thành viên đảm nhận đủ 3 tầng của module được phân
   công (Oracle Database - Business Layer - Giao diện người dùng),
