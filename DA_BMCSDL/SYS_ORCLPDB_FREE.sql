@@ -37,7 +37,7 @@ BEGIN
 END policy_accounting;
 /
 
---  Đăng ký VPD Policy lên bảng EMPLOYEE
+--  Đăng ký VPD Policy
 -- Policy cho Trưởng phòng: chỉ áp dụng khi SELECT
 BEGIN
     DBMS_RLS.ADD_POLICY(
