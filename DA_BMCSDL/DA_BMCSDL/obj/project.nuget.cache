@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BI9ig/GX2c=",
+  "success": true,
+  "projectFilePath": "D:\\Da_BaoMat\\DA_BMCSDL\\DA_BMCSDL\\DA_BMCSDL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\oracle.manageddataaccess.core\\23.26.200\\oracle.manageddataaccess.core.23.26.200.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.directoryservices.protocols\\8.0.2\\system.directoryservices.protocols.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
